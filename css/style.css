@@ -146,45 +146,58 @@
 }
 
 
-.credit-card{
-    height: 33px;
-    
-}
 .background-3 {
     background-image: url(../img/background-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
-    height: 300px;
+    height: 100%;
+
 }
-.finish-card{
+.Online-Shopping {
     background: none;
     border: none;
 }
-.finish-card a{
-    color: rgb(236, 220, 220);
-   
-    font-weight: 400;
-}
-.finish-card .fa{
-    color: rgb(236, 220, 220);
-    padding-right: 10px;
-}
-.finish-card-1 h5{
-    color: rgb(236, 220, 220);
-    font-weight: 700;
+.Shopping-card-1 h5{
+    color: white;
     width: 300px;
 }
-.finish-card-2{
+.cart{
+    padding-top: 10px;
+}
+.cart a{
+    color: white;
+}
+.Shopping-card-2{
     display: flex;
 }
-.finish-card-3{
+.icon{
+    margin-right: 5px;
+}
+.icon-box{
+    margin-bottom: 15px;
+}
+.icon-name-box{
+    margin-bottom: 15px;
+}
+.icon-name{
+    color: white;
+}
+.fa{
+    color: white;
+}
+
+.Shopping-card-3{
+    width: 380px;
+}
+.credit-card{
+    height: 33px;
     text-align: center;
 }
-.finish-card-3 h5{
-    text-align: left;
+.Shopping-card-3 h5{
+    color: white;
     padding-bottom: 20px;
 }
-.finish-card-3 span{
+.Shopping-card-3 span{
     color: #f06db9;
 }
