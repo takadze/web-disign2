@@ -87,6 +87,7 @@
     padding-bottom: 50px;
 }
 .baner-text a{
+    text-decoration: none;
     color: white;
     padding: 16px 30px;
     background-color: rgb(236, 28, 45);
@@ -166,6 +167,7 @@
     padding-top: 10px;
 }
 .cart a{
+     text-decoration: none;
     color: white;
 }
 .Shopping-card-2{
@@ -180,7 +182,8 @@
 .icon-name-box{
     margin-bottom: 15px;
 }
-.icon-name{
+.icon-name-box a{
+    text-decoration: none;
     color: white;
 }
 .fa{
